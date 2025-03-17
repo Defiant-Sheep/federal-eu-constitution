@@ -9,13 +9,15 @@ The senatorial nominations comission of each member state shall set their own ru
 
 The candidates for the senatorial election are all incumbant senators who wish to run for reelection, all candidates chosen by the senatorial nominations comission, and all candidates nominated by groups of the senatorial nominations comission. 
 
-
 Four senators shall elected by the citizens of each country from these candidates using single transferrable vote.
 
+The timing of lections for the senate shall be determined by state law, but shall not be more than seven years and two months after the previous election. The first senate election of each member state shall not occur longer than five years after the latter time period out of the ratification of this constitution and the enterance of the member state to the European Federation.
+
 ### Article II.
+Elections for the European Parliament shall occur, accoring to federal legislation, either by party list proportional on the national level, or by proportional methods chosen by the member state. In the latter case, seats will be apportioned to member states proportionally, with the minimum number of seats that a member state can have being no more than six. In this case, member states may devide themselves into constituencies with no less than three seats.
 
+Elections to the European Parliament shall happen every three years.
 
----
 
 [Table of Contents](TABLE_OF_CONTENTS.md)
 
