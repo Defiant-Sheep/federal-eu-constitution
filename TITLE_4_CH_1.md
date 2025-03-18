@@ -9,15 +9,19 @@ The senatorial nominations comission of each member state shall set their own ru
 
 The candidates for the senatorial election are all incumbant senators who wish to run for reelection, all candidates chosen by the senatorial nominations comission, and all candidates nominated by groups of the senatorial nominations comission. 
 
-Four senators shall elected by the citizens of each country from these candidates using single transferrable vote.
+Four senators shall elected by the citizens of each member state from these candidates using single transferrable vote.
 
-The timing of lections for the senate shall be determined by state law, but shall not be more than seven years and two months after the previous election. The first senate election of each member state shall not occur longer than five years after the latter time period out of the ratification of this constitution and the enterance of the member state to the European Federation.
+The timing of elections for the senate shall be determined by state law, but shall not be more than seven years and two months after the previous election. The first senate election of each member state shall not occur longer than five years after the latter time period out of the ratification of this constitution and the enterance of the member state to the European Federation.
 
 ### Article II.
-Elections for the European Parliament shall occur, accoring to federal legislation, either by party list proportional on the national level, or by proportional methods chosen by the member state. In the latter case, seats will be apportioned to member states proportionally, with the minimum number of seats that a member state can have being no more than six. In this case, member states may devide themselves into constituencies with no less than three seats.
+Voting for the European Parliament shall occur in two elections, the constituency elections and the list elections.
 
-Elections to the European Parliament shall happen every three years.
+Member states with more than 40 million residents shall devide themselves into constituencies of between 20 million and 35 million residents. Member states with less than 40 million residents shall be one constituency each. Constituencies shall be entitled to elect one member of Parliament for every 5 million residents. If a member state has fewer than 15 million residents, they will be entitled to exactly 3 members of Parliament. 
+Every four years, the citizens of each constituency will elect as many members of Parliament as they are entitled to by single transferrable vote.
 
+Every three years, the citizens of the European Federation shall vote for European parties in the list election. 200 members of Parliament shall be distributed to the parties according to the Sainte-Langue method.
+
+---
 
 [Table of Contents](TABLE_OF_CONTENTS.md)
 
