@@ -10,8 +10,8 @@
 - [Chapter III - Civil and Political Rights (Articles ??? to ???)](TITLE_1_CH_3.md)
 
 ## TITLE II - Structure of Government
-- [Chapter I - Federal Institutions (Articles I to III)](TITLE_2_CH_1.md)
-- [Chapter II - Powers of the Federal Government (Articles I to V)](TITLE_2_CH_2.md)
+- [Chapter I - Federal Institutions (Articles I to IV)](TITLE_2_CH_1.md)
+- [Chapter II - Powers of the Federal Government (Articles I to VI)](TITLE_2_CH_2.md)
 - [Chapter III - Checks and Balances (Articles ??? to ???)](TITLE_2_CH_3.md)
 
 ## TITLE III - Member State Rights and Obligations
