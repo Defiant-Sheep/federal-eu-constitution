@@ -14,6 +14,8 @@ There shall be a President of Europe and one or more Vice Presidents of Europe. 
 ### Article IV.
 There shall be a Federal Jury with the responsibiltiy of judging the President of Europe, the Vice Presidents of Europe, members of the Supremem Court, and the ministers in impeachment trials. Each member state shall select members of the Federal Jury by sortition if they have fewer than one juror for every 6 million residents, or if they have fewer than 10 jurors in total. Members of the Federal Jury may meet in smaller groups.
 
+Members of the Federal Jury are removed after 2 years, or if they resign. The law of the member state may provide for their early removal in egregious cases of failing to participate in the Federal Jury.
+
 ---
 
 [Table of Contents](TABLE_OF_CONTENTS.md)
