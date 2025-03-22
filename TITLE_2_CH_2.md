@@ -15,7 +15,7 @@ The Parliament of Europe may appoint and remove a Federal Chancellor by an absol
 
 If a majority of Parliament votes in for a motion of no confidence against a minister, a Vice President other than the one that does not require the confidence of Parliament, or any group of ministers, the indidual or individuals will be removed from office.
 
-If the President does not have full confidence, individuals nominated as ministers or Vice Presidents require either a majority vote of Parliament  in favour of a motion of confidence in the individual, or the approval of a Federal Chancellor before they are appointed to their position.
+Individuals nominated as ministers or Vice Presidents require either a majority vote of Parliament, or the approval of a Federal Chancellor, before they are appointed to their position.
 
 ### Aritcle III.
 Either chamber of Congress may initiate bills according to their internal rules. They may debate and amend the bill through their internal rules at any point before it is finalised. The initiating chamber may pass the bill with a majority vote. The bill is sent to the other chamber, that may debate it themselves. They second chamber may by majority vote reject the bill, return it to the first chamber with a recommendation to amend it, or pass the bill themselves. The bill becomes law after both chambers pass it in the same form.
