@@ -34,6 +34,14 @@ Enabling Acts may contain clauses restricting the use of these powers to specifi
 
 Either chamber of Congress may unilaterally create restrictions to Enabling Acts. These restrictions may be removed at any time by the same chamber.
 
+
+### Article VI.
+The Federal Jusy has juristiction over the impeachments of the President of Europe, the Vice Presidents, ministers and members of the Supreme Court. Members of the Federal Jury may only vote on the impeachment of a federal official once per month. The votes will be sorted based on the meeting they were cast after and the individual they were about, but the individuals who voted a certain way within a meeting will remain anonymous. Votes in favour of impeachment shall not be legally distinguishable even if they specified separate actions as the relevant offence, but the media may report on the reasoning given if the layout of the votes allows for the reasoning to be given. 
+
+If two-thirds of the votes among the Federal Jury within the past two months on the topic of a single federal official voted to impeach them, and at least three-quarters of the Federal Jury participated in a vote on that same federal official within the past two months, then the official is considered impeached. An impeached official shall be removed from office when a judge declares that they are aware that they have been impeached. 
+
+Being impeached shall not necessarilty be a crime, and impeachable offenses are not necessarily crimes. The ordinary justice system will be used to determine if the actions the Federal Jury accused the former federal official of were committed beyone a reasonable doubt, and if they were criminal actions. 
+
 ---
 
 [Table of Contents](TABLE_OF_CONTENTS.md)
