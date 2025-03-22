@@ -6,10 +6,13 @@
 There shall be a Continental Congress composed of The European Parliament and a European Senate. The Continental Congress shall be the federal legislature.
 
 ### Article II.
-There shall be a Cabinet composed of the several ministers. Each minister shall be the highest ranking executive of their department. Each department shall be given defined powers by Congress which they will use to enforce federal law and achieve objectives set by their minister. The Cabinet shall be responsible for coordinating the initiatives of the ministers. 
+There shall be a Cabinet composed of the President of Europe, their Vice Presidents, and several ministers. Each minister shall be the highest ranking executive of their department. Each department shall be given defined powers by Congress which they will use to enforce federal law and achieve objectives set by their minister. The Cabinet shall be responsible for coordinating the initiatives of the ministers. 
 
 ### Article III.
 There shall be a President of Europe and one or more Vice Presidents of Europe. The President, with the assistance of the Vice Presidents, shall have the responsibility of nominating ministers, chairing meetings of the cabinet, resolving disputes between separate departments and removing ministers. The President of Europe may also fulfil the role of head of state when greeting foreign dignitaries.
+
+### Article IV.
+There shall be a Federal Jury with the responsibiltiy of judging the President of Europe, the Vice Presidents of Europe, members of the Supremem Court, and the ministers in impeachment trials. 
 
 ---
 
