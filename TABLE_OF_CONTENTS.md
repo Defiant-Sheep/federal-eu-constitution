@@ -10,8 +10,8 @@
 - [Chapter III - Civil and Political Rights (Articles ??? to ???)](TITLE_1_CH_3.md)
 
 ## TITLE II - Structure of Government
-- [Chapter I - Federal Institutions (Articles ??? to ???)](TITLE_2_CH_1.md)
-- [Chapter II - Powers of the Federal Government (Articles ??? to ???)](TITLE_2_CH_2.md)
+- [Chapter I - Federal Institutions (Articles I to III)](TITLE_2_CH_1.md)
+- [Chapter II - Powers of the Federal Government (Articles I to V)](TITLE_2_CH_2.md)
 - [Chapter III - Checks and Balances (Articles ??? to ???)](TITLE_2_CH_3.md)
 
 ## TITLE III - Member State Rights and Obligations
@@ -20,7 +20,7 @@
 - [Chapter III - Relations with the Federal Government (Articles ??? to ???)](TITLE_3_CH_3.md)
 
 ## TITLE IV - Electoral Processes and Democratic Participation
-- [Chapter I - General Election Provisions (Articles ??? to ???)](TITLE_4_CH_1.md)
+- [Chapter I - General Election Provisions (Articles I to III)](TITLE_4_CH_1.md)
 - [Chapter II - Political Parties and Pluralism (Articles ??? to ???)](TITLE_4_CH_2.md)
 - [Chapter III - Referendums and Direct Democracy (Articles ??? to ???)](TITLE_4_CH_3.md)
 
