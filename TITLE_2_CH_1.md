@@ -12,6 +12,8 @@ The European Parliament has the additional responsibility of allowing the presid
 ### Article II.
 There shall be a Cabinet composed of the President of Europe, their Vice Presidents, a Chancellor, and several ministers. Each minister shall be the highest ranking executive of their department. Each department shall be provided defined powers and a defined structure by Consilium which they will use to enforce federal law and achieve objectives set by their minister. Ministers are directly responsible to both the President and the European Parliament. The Cabinet shall be responsible for coordinating the initiatives of the ministers. The Chancellor is capable of appointing the President's nominees as ministers on behalf of Parliament. The Chancellor is responsible to Parliament. 
 
+The Vice Presidents have the additional responsibility of producing a new president if the President of Europe becomes unable to perform their duties for a long period of time.
+
 ### Article III.
 There shall be a President of Europe and one or more Vice Presidents of Europe. The President, with the assistance of the Vice Presidents, shall have the responsibility of nominating ministers, chairing meetings of the cabinet, resolving disputes between separate departments and removing ministers. The President of Europe may also fulfil the role of head of state when greeting foreign dignitaries.
 
