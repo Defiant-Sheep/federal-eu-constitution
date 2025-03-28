@@ -3,14 +3,14 @@
 ## Chapter I - Federal Institutions
 
 ### Article I. 
-There shall be a European Congress composed of The European Parliament and a European Senate. The European Congress as a whole shall be the federal legislature. The European Parliament shall represent the people proportionly, while the European Senate shall represent the states equally. Each member of Congress shall have equal voting power to each other member of the same chamber. 
+There shall be a European Consilium composed of The European Parliament and a European Senate. The European Consilium as a whole shall be the federal legislature. The European Parliament shall represent the people proportionly, while the European Senate shall represent the states equally. Each member of the Consilium shall have equal voting power to each other member of the same chamber. 
 
 Members of the European Senate are generally reffered to as "Senators" in this constitution.
 
 The European Parliament has the additional responsibility of allowing the president to appoint ministers, and of removing ministers regardless of the president's opinion.
 
 ### Article II.
-There shall be a Cabinet composed of the President of Europe, their Vice Presidents, a Chancellor, and several ministers. Each minister shall be the highest ranking executive of their department. Each department shall be given defined powers and a defined structure by Congress which they will use to enforce federal law and achieve objectives set by their minister. The Cabinet shall be responsible for coordinating the initiatives of the ministers. The Chancellor is responsible for identifying when candidates for ministerial positions are certain enough to have the confidence of parliament that they may be appointed without a vote, and for appointing these candidates as ministers on behalf of Parliament
+There shall be a Cabinet composed of the President of Europe, their Vice Presidents, a Chancellor, and several ministers. Each minister shall be the highest ranking executive of their department. Each department shall be provided defined powers and a defined structure by Consilium which they will use to enforce federal law and achieve objectives set by their minister. Ministers are directly responsible to both the President and the European Parliament. The Cabinet shall be responsible for coordinating the initiatives of the ministers. The Chancellor is capable of appointing the President's nominees as ministers on behalf of Parliament
 
 ### Article III.
 There shall be a President of Europe and one or more Vice Presidents of Europe. The President, with the assistance of the Vice Presidents, shall have the responsibility of nominating ministers, chairing meetings of the cabinet, resolving disputes between separate departments and removing ministers. The President of Europe may also fulfil the role of head of state when greeting foreign dignitaries.
