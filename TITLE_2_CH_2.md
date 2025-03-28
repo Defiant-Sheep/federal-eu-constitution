@@ -3,9 +3,9 @@
 ## Chapter II - Powers of the Federal Government
 
 ### Article I. 
-The President of Europe shall appoint up to six citizens who are not members of Congress to be Vice Presidents.
+The President of Europe shall appoint up to six citizens who are not members of the Consilium to be Vice Presidents.
 
-The President of Europe may at any time nominate any citizen who is not a member of Congress to be a minister of a defined ministry or an ambassator to a foreign country. If there is a vacancy for a minister or ambassator, any Vice President may nominate any citizen who is not a member of Congress to be that minister or ambassator.
+The President of Europe may at any time nominate any citizen who is not a member of the Consilium to be a minister of a defined ministry or an ambassator to a foreign country. If there is a vacancy for a minister or ambassator, any Vice President may nominate any citizen who is not a member of the Consilium to be that minister or ambassator.
 
 The President may at any time remove any minister from office. The President may grant the right to remove ministers to the Vice Presidents. 
 
@@ -22,7 +22,7 @@ Individuals nominated as ministers require either a majority vote of Parliament,
 Individuals nominated as ambasators require a two-thirds affirmative vote of the Senate before they may be appointed to their position.
 
 ### Article IV.
-Either chamber of Congress may initiate bills according to their internal rules. They may debate and amend the bill through their internal rules at any point before it is finalised. The initiating chamber may pass the bill with a majority vote. The bill is sent to the other chamber, that may debate it themselves. They second chamber may by majority vote reject the bill, return it to the first chamber with a recommendation to amend it, or pass the bill themselves. The bill becomes law after both chambers pass it in the same form.
+Either chamber of the Consilium may initiate bills according to their internal rules. They may debate and amend the bill through their internal rules at any point before it is finalised. The initiating chamber may pass the bill with a majority vote. The bill is sent to the other chamber, that may debate it themselves. They second chamber may by majority vote reject the bill, return it to the first chamber with a recommendation to amend it, or pass the bill themselves. The bill becomes law after both chambers pass it in the same form.
 
 The senate may choose to submit a bill to a referendum.
 
@@ -30,15 +30,15 @@ The senate may choose to submit a bill to a referendum.
 Two thirds of the Senate must vote in favour if the ratification of a treaty is to occur. If a treaty contains legislative provisions, Parliament must also ratify the treaty for it to come into effect. 
 
 ### Article VI.
-Each chamber of Congress may edit their internal rules. 
+Each chamber of the Consilium may edit their internal rules. 
 
-Each chamber of Congress may elect their own speaker and deputy speakers.
+Each chamber of the Consilium may elect their own speaker and deputy speakers.
 
 ### Article VII.
 Laws that grant additional power to the cabinet, a minister or a ministry shall be called Enabling Acts. 
 Enabling Acts may contain clauses restricting the use of these powers to specific types of state of emergency. There shall be legislation describing the process by which every type of state of emergency may be declared and revoked.
 
-Either chamber of Congress may unilaterally create restrictions to Enabling Acts. These restrictions may be removed at any time by the same chamber.
+Either chamber of the Consilium may unilaterally create restrictions to Enabling Acts. These restrictions may be removed at any time by the same chamber.
 
 
 ### Article VIII.
