@@ -3,14 +3,18 @@
 ## Chapter I - Federal Institutions
 
 ### Article I. 
-There shall be a European Consilium composed of The European Parliament and a European Senate. The European Consilium as a whole shall be the federal legislature. The European Parliament shall represent the people proportionly, while the European Senate shall represent the states equally. Each member of the Consilium shall have equal voting power to each other member of the same chamber. 
+There shall be a European Consilium composed of The European Parliament and a European Senate. The European Consilium as a whole shall be the federal legislature. Both chambers of the Consilium are responsible for the creation of statutes, the editing or removal of existing statutes, and the monitoring of the cabinet's activities. 
 
-Members of the European Senate are generally reffered to as "Senators" in this constitution.
+The European Parliament shall represent the people proportionly, while the European Senate shall represent the states equally. Each member of the Consilium shall have equal voting power to each other member of the same chamber. 
+
+Members of the European Senate are generally reffered to as "Senators" in this constitution. The Senate shall be responsible for initiating ordinary referendums, and shall more responsible for foreign policy than Parliament.
 
 The European Parliament has the additional responsibility of allowing the president's nominees to become ministers, and of removing ministers regardless of the president's opinion.
 
 ### Article II.
-There shall be a Cabinet composed of the President of Europe, their Vice Presidents, a Chancellor, and several ministers. Each minister shall be the highest ranking executive of their department. Each department shall be provided defined powers and a defined structure by Consilium which they will use to enforce federal law and achieve objectives set by their minister. Ministers are directly responsible to both the President and the European Parliament. The Cabinet shall be responsible for coordinating the initiatives of the ministers. The Chancellor is capable of appointing the President's nominees as ministers on behalf of Parliament. The Chancellor is responsible to Parliament. 
+There shall be a Cabinet composed of the President of Europe, their Vice Presidents, a Chancellor, and several ministers. Each minister shall be the highest ranking executive of their department. Each department shall be provided defined powers and a defined structure by Consilium which they will use to enforce federal law and achieve objectives set by their minister. 
+
+Ministers are directly responsible to both the President and the European Parliament. The Cabinet shall be responsible for coordinating the initiatives of the ministers. The Chancellor is capable of appointing the President's nominees as ministers on behalf of Parliament. The Chancellor is responsible to Parliament. 
 
 The Vice Presidents have the additional responsibility of producing a new president if the President of Europe becomes unable to perform their duties for a long period of time.
 
