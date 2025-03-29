@@ -35,10 +35,10 @@ Each chamber of the Consilium may edit their internal rules.
 Each chamber of the Consilium may elect their own speaker and deputy speakers.
 
 ### Article VII.
-Laws that grant additional power to the cabinet, a minister or a ministry shall be called Enabling Acts. 
-Enabling Acts may contain clauses restricting the use of these powers to specific types of state of emergency. There shall be legislation describing the process by which every type of state of emergency may be declared and revoked.
+Laws that grant additional power to the cabinet, a minister or a ministry shall be called Authorization Acts. 
+Authorization Acts may contain clauses restricting the use of these powers to specific types of state of emergency. There shall be legislation describing the process by which every type of state of emergency may be declared and revoked.
 
-Either chamber of the Consilium may unilaterally create restrictions to Enabling Acts. These restrictions may be removed at any time by the same chamber.
+Either chamber of the Consilium may unilaterally create restrictions to Authorization Acts. These restrictions may be removed at any time by the same chamber.
 
 
 ### Article VIII.
