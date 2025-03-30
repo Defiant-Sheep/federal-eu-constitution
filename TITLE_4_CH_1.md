@@ -16,7 +16,7 @@ The timing of elections for the senate shall be determined by state law, but sha
 ### Article II.
 Voting for the European Parliament shall occur in two elections, the constituency elections and the list elections.
 
-Member states with more than 40 million residents shall devide themselves into constituencies of between 20 million and 35 million residents. Member states with less than 40 million residents shall be one constituency each. Constituencies shall be entitled to elect one member of Parliament for every 5 million residents. If a member state has fewer than 15 million residents, they will be entitled to exactly 3 members of Parliament. 
+Member states with more than 4 million residents shall devide themselves into constituencies of between 2 million and 3.5 million residents. Member states with less than 4 million residents shall be one constituency each. Constituencies shall be entitled to elect one member of Parliament for every 500 thousand residents. If a member state has fewer than 1.5 million residents, they will be entitled to exactly 3 members of Parliament. 
 Every four years, the citizens of each constituency will elect as many members of Parliament as they are entitled to by single transferrable vote.
 
 Every three years, the citizens of the European Federation shall vote for European parties in the list election. 200 members of Parliament shall be distributed to the parties according to the Sainte-Langue method.
