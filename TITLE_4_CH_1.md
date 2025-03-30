@@ -47,6 +47,18 @@ The second round occurs begins four to six months after the first round. Voters 
 
 The winner of the election, as defined in the second round, becomes the President of Europe when the incumbant president's term ends. This happens four years after the previous inauguration.
 
+### Article IV.
+Single Transferrable Vote shall be defined as follows:
+
+Voters vote using ranked ballots. No candidates are considered elected or eliminated at the start. All ballots begin with equal voting power. The threshold is the number of votes cast divided by one more than the number of candidates who will win. 
+
+The following process occurs until the number of elected candidates is equal to the number of positions to be filled.
+1. Votes are assigned to the candidate they ranked highest who has not been elected or eliminated.
+2. If a candidate recieved a greater combined voting power than the threshold, that candidate is elected immediately. The voting power of all votes for this candidate is multiplied by the threshold divided by the combined voting power of the votes assigned to the candidate.
+3. If no candidate recieved a greater sum of voting powers than the threshold, the candidate whose sum of voting power of the votes assigned to them is eliminated.
+4. If not all seats are filled, return to step 1.
+
+
 ---
 
 [Table of Contents](TABLE_OF_CONTENTS.md)
