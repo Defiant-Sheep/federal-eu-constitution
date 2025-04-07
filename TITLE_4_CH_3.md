@@ -3,9 +3,6 @@
 ## Chapter III - Referendums and Direct Democracy
 
 ### Article I. 
-An ordinary referendum passes if the number of voters who voted in support of the motion is greater than the number of voters who voted against the motion and  greater than half the number of voters who voted in the most recent elections to the European Parliament.
-
-The bill that the referendum concerns becomes law if the referendum passes. 
 
 ---
 
