@@ -22,7 +22,7 @@ Ministers are directly responsible to both the President and the European Parlia
 The Vice Presidents have the additional responsibility of producing a new president if the President of Europe becomes unable to perform their duties for a long period of time.
 
 ### Article IV.
-There shall be a Federal Jury with the responsibiltiy of judging the President of Europe, the Vice Presidents of Europe, federal judges, abassadors, and the ministers in impeachment trials. Each member state shall select members of the Federal Jury by sortition if they have fewer than one juror for every 6 million residents, or if they have fewer than 10 jurors in total. Members of the Federal Jury may meet in smaller groups.
+There shall be a Federal Jury with the responsibiltiy of judging the President of Europe, the Vice Presidents of Europe, federal judges, abassadors, and the ministers in impeachment trials. Each member state shall select members of the Federal Jury by sortition if they have fewer than one juror for every 1 million residents, or if they have fewer than 5 jurors in total. Sortition is any random selection process that gives every citizen of the state equal chance to be selected, regardless of their popularity. Members of the Federal Jury may meet in smaller groups.
 
 Members of the Federal Jury are removed after 2 years, or if they resign. The law of the member state may provide for their early removal in egregious cases of failing to participate in the Federal Jury or being obviously incapable.
 
