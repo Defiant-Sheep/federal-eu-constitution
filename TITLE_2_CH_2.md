@@ -34,6 +34,10 @@ Each chamber of the Consilium may edit their internal rules.
 
 Each chamber of the Consilium may elect their own speaker and deputy speakers.
 
+Each chamber of the Consilium may establish comittees.
+
+Each chamber of the Consilium may grant their comittees the power to initiate legislation, powers to regulate aspacts of the chamber's internal governance, powers of investigation, the privilage to discuss potential nominees for ministerial and embassatorial offices with the president, or a combination of the above.
+
 ### Article VII.
 Laws that grant additional power to the cabinet, a minister or a ministry shall be called Authorization Acts. 
 Authorization Acts may contain clauses restricting the use of these powers to specific types of state of emergency. There shall be legislation describing the process by which every type of state of emergency may be declared and revoked.
