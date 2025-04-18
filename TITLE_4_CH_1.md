@@ -25,8 +25,8 @@ Every three years, the citizens of the European Federation shall vote for Europe
 ### Article III
 If there are more than nine member states that have never nominated a presidential candidate in the past ten years, the senate shall select nine of these member states to nominate candidates for the first round of the presidential election. Otherwise, all member states that never nominated a presidential candidate candidate in the past ten years are automatically selected. 
 
-All of the selected member states shall nominate between two and four presidential candidates by the time that three years have elapsed from the inauguration of the previous President. Eah member state shall create the rules governing how this happens.
-The incumbant President of Europe may nominate one candidate for the election by the same deadline. They are permitted to nominate themself if it would not be their third term as President of Europe. 
+All of the selected member states shall nominate between two and four eligible presidential candidates by the time that three years have elapsed from the inauguration of the previous President. Eah member state shall create the rules governing how this happens.
+The incumbant President of Europe may nominate one eligible candidate for the election by the same deadline. They are permitted to nominate themself if they are eligible.
 
 
 Three to four months after the nominations, the first round of the election will begin. All citizens of Europe may choose to approve any number and combbination of candidates, and may choose to disapprove of any number and combination of candidates. The results shall be tallied for each member state.
@@ -48,6 +48,9 @@ The second round occurs begins four to six months after the first round. Voters 
 The winner of the election, as defined in the second round, becomes the President of Europe when the incumbant president's term ends. This happens four years after the previous inauguration.
 
 ### Article IV.
+Every citizen or former citizen of the European Federation over the age of twenty who is not a member of the Consilium and has not served more than six years as President of Europe is eligable to be a presidential candidate and may be appointed Vice President.
+
+### Article V.
 Single Transferrable Vote shall be defined as follows:
 
 Voters vote using ranked ballots. No candidates are considered elected or eliminated at the start. All ballots begin with equal voting power. The threshold is the number of votes cast divided by one more than the number of candidates who will win. 
