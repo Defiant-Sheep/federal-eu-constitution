@@ -45,7 +45,7 @@ The second round occurs begins four to six months after the first round. Voters 
 5. The winner of Part 4 is compared to the candidate who recieved the most votes in part 1, with the same rules as parts 3 and 4. The winner wins the election.
 
 
-The winner of the election, as defined in the second round, becomes the President of Europe when the incumbant president's term ends. This happens four years after the previous inauguration.
+The winner of the election, as defined in the second round, becomes the President of Europe when the incumbant president's term ends, and when one year has elapsed from the date that this constitution comes into effect. The term of an elected president ends four years after their inauguration. The term of a president appointed by the Vice Presidents due to a vacancy ends four years after the previous election.
 
 ### Article IV.
 Every citizen or former citizen of the European Federation over the age of twenty who is not a member of the Consilium and has not served more than six years as President of Europe is eligable to be a presidential candidate and may be appointed Vice President.
