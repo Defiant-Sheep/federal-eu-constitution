@@ -59,7 +59,7 @@ Voters vote using ranked ballots, disallowing equal rankings. No candidates are 
 
 The following process occurs until the number of elected candidates is equal to the number of positions to be filled.
 1. Votes are assigned to the candidate they ranked highest who has not been elected or eliminated.
-2. If a candidate recieved a greater combined voting power than the threshold, that candidate is elected immediately. The voting power of all votes for this candidate is multiplied by the threshold divided by the combined voting power of the votes assigned to the candidate.
+2. If a candidate recieved a greater combined voting power than the threshold, that candidate is elected immediately. The voting power of every ballot for this candidate is multiplied by the ratio of the combined voting power assigned to the candidate minus the threshold divided by the combined voting power assigned to the candidate.
 3. If no candidate recieved a greater sum of voting powers than the threshold, the candidate whose sum of voting power of the votes assigned to them is eliminated.
 4. If not all seats are filled, return to step 1.
 
