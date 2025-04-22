@@ -55,10 +55,10 @@ Every citizen or former citizen of the European Federation over the age of twent
 ### Article V.
 Single Transferrable Vote shall be defined as follows:
 
-Voters vote using ranked ballots, disallowing equal rankings. No candidates are considered elected or eliminated at the start. All ballots begin with equal voting power. The threshold is the number of votes cast divided by one more than the number of candidates who will win. 
+Voters vote using ranked ballots. No candidates are considered elected or eliminated at the start. All ballots begin with equal voting power. The threshold is the number of votes cast divided by one more than the number of candidates who will win. 
 
 The following process occurs until the number of elected candidates is equal to the number of positions to be filled.
-1. Votes are assigned to the candidate they ranked highest who has not been elected or eliminated.
+1. Votes are assigned to the candidate they ranked highest who has not been elected or eliminated. Ballots that ranked a set of candidates equally have their voting power split equally between all of the candidates in the highest ranking that have not been elected or eliminated.
 2. If a candidate recieved a greater combined voting power than the threshold, that candidate is elected immediately. The voting power of every ballot for this candidate is multiplied by the ratio of the combined voting power assigned to the candidate minus the threshold divided by the combined voting power assigned to the candidate.
 3. If no candidate recieved a greater sum of voting powers than the threshold, the candidate whose sum of voting power of the votes assigned to them is eliminated.
 4. If not all seats are filled, return to step 1.
